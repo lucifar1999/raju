@@ -43,5 +43,11 @@ The ```rmdir``` command in Linux removes empty directories from the system. Here
 __```syntax```:- ```rmdir``` remove directory name ↵__
 #### <ins> 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐑𝐞𝐬𝐮𝐥𝐭 </ins>
 
-## <ins> 7 - ```nmap```: make directory </ins>
+## <ins> 7 - ```nmap``` </ins>
 ```mkdir``` is a network scanning tool—an open source Linux command-line tool—used for network exploration, host discovery, and security auditing. Gordon Lyon (pseudonym Fyodor Vaskovich) created it to help map an entire network easily and find its open ports and services.
+#### <ins> 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐑𝐞𝐬𝐮𝐥𝐭 </ins>
+
+## <ins> 8 - ```zip``` </ins>
+
+```zip`` is a compression and file packaging utility for Unix. Each file is stored in a single .zip {.zip-filename} file with the extension .zip.
+#### <ins> 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐑𝐞𝐬𝐮𝐥𝐭 </ins>
