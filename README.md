@@ -51,3 +51,19 @@ __```syntax```:- ```rmdir``` remove directory name ↵__
 
 ```zip`` is a compression and file packaging utility for Unix. Each file is stored in a single .zip {.zip-filename} file with the extension .zip.
 #### <ins> 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐑𝐞𝐬𝐮𝐥𝐭 </ins>
+
+## <ins> 9 - ```tar``` </ins>
+The tar command in Linux is used to compress and archive files and folders. It can also be used to extract, maintain, or modify tar archives
+#### <ins> 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐑𝐞𝐬𝐮𝐥𝐭 </ins>
+
+## <ins> 10 - ```touch```
+The touch command in Linux is used to change timestamps and access stamps for files or directories, and to create new empty files
+#### <ins> 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐑𝐞𝐬𝐮𝐥𝐭 </ins>
+
+### <ins> 11``` file``` </ins>
+The Linux file command is a tool that determines the type of a file by analyzing its content, rather than its file extension. The command is useful in Linux environments where file extensions are not mandatory, and files can often be misnamed
+#### <ins> 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐑𝐞𝐬𝐮𝐥𝐭 </ins>
+
+### <ins> 12``` mv``` </ins>
+The mv command in Linux is used to move and rename files and directories
+#### <ins> 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐑𝐞𝐬𝐮𝐥𝐭 </ins>
